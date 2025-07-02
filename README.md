@@ -49,41 +49,42 @@ node index.js
 ![Homepage](screenshots/homepage.png)
 
 ### 🔐 Login and Signup Page
-![Login and Signup](screenshots/Login and Signup Page.png)
+![Login and Signup](screenshots/Login%20and%20Signup%20Page.png)
 
 ### 📅 Calendar View for a Specific date
-![Calendar Specific](screenshots/Calendar View for a Specific date.png)
+![Calendar Specific](screenshots/Calendar%20View%20for%20a%20Specific%20date.png)
 
-### 📅 Calendar View for Search Results
-![Calendar Search](screenshots/Calendar View for search Results.png)
-
-### 🛍️ Product Details
-![Product Details](screenshots/Product details.png)
+### 📅 Calendar View for search Results
+![Calendar Search](screenshots/Calendar%20View%20for%20search%20Results.png)
 
 ### 📊 Auction Space for a Product
-![Auction Space](screenshots/Auction Space for a Product.png)
+![Auction Space](screenshots/Auction%20Space%20for%20a%20Product.png)
 
-### 📦 Search Results
-![Search Results](screenshots/SearchResults.png)
+### ❓ Buyer Queries
+![Buyer Queries](screenshots/Buyer%20Queries.png)
+
+### 🛍️ Product details
+![Product details](screenshots/Product%20details.png)
+
+### 📦 SearchResults
+![SearchResults](screenshots/SearchResults.png)
 
 ### ⭐ Watchlist
 ![Watchlist](screenshots/Watchlist.png)
 
 ### 🛒 Past Purchases
-![Past Purchases](screenshots/Past Purchases.png)
+![Past Purchases](screenshots/Past%20Purchases.png)
 
 ### 📧 Email Notifications
-![Email Notifications](screenshots/Email Notifications.png)
+![Email Notifications](screenshots/Email%20Notifications.png)
 
 ### 💬 Chat System
-![Chat](screenshots/Chat System.png)
+![Chat System](screenshots/Chat%20System.png)
 
-### 🙍‍♂️ My Profile
+### 🙍‍♂️ MyProfile
 ![MyProfile](screenshots/MyProfile.png)
 
 ### ✏️ Edit Profile
-![Edit Profile](screenshots/Edit Profile.png)
+![Edit Profile](screenshots/Edit%20Profile.png)
 
-### ❓ Buyer Queries
-![Buyer Queries](screenshots/Buyer Queries.png)
 
