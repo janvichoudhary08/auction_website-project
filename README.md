@@ -45,7 +45,6 @@ node index.js
 
 
 
-### ✏️ Edit Profile
-![Edit Profile](screenshots/Edit%20Profile.png)
+
 
 
